@@ -4,6 +4,6 @@ slug  : water-geometry
 seal  : a056e0a852859fde2621533c0deaec4449d29fde2d707d087661ddf2067e1385
 prev  : 3100b088bd1f04a3209dc7020148f137602df9ba723b284712afcc2c938efe62
 link  : 8a7e14ab82b087cbe3dbfcb6b9daca6aee178b29b67459c40d899d9be784ab6c
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
